@@ -1,3 +1,7 @@
+# 花蓮縣豐濱鄉港口藝術中心 小朋有工程與資訊入門
+* 對像: 國小四年級到國三
+* 講師: https://www.linkedin.com/in/samsonchen/
+
 物聯網與創客世界的探索
 Exploring the Internet of Things and the Makers' World
 
