@@ -9,7 +9,7 @@ by Samson Chen
 
 // start up
 void setup() {
-    pinMode(OUTPUT_PIN, OUTPUT);
+  pinMode(OUTPUT_PIN, OUTPUT);
 }
 
 // loops
