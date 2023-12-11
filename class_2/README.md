@@ -8,4 +8,18 @@
 - Arduino 操作 Part 2
 - RGB 燈號控制
 - 視覺暫留原理
-- 超音波的原理與應用
+- 16 進位
+
+## 本次課程 Keywords
+
+- copy
+- cut
+- paste
+- RGB
+- file
+- edit
+- open
+- open recent
+- save
+- save as
+- binary/octet/decimal/hex

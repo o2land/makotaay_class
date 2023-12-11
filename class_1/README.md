@@ -16,3 +16,15 @@ DIY 教材將使用 ESP32-C3 + Arduino 進行，孩子們需歷經:
 - Component (元件)特性了解
 - Programming Logic (程式邏輯)
 - 以上皆為全英環境
+
+## 本次課程 Keywords
+
+- Arduino
+- break board
+- MCU
+- LED
+- input
+- output
+- setup
+- loop
+- define

@@ -27,9 +27,9 @@ void setup() {
 // loops
 void loop() {
   myLED.setPixel(0, L_RED, 1);
-  delay(500);
+  delay(5);
   myLED.setPixel(0, L_GREEN, 1);
-  delay(500);
+  delay(5);
   myLED.setPixel(0, L_BLUE, 1);
-  delay(500);
+  delay(5);
 }
