@@ -12,14 +12,16 @@
 
 ## 本次課程 Keywords
 
-- copy
-- cut
-- paste
 - RGB
+- datasheet
+- schematic
 - file
 - edit
 - open
 - open recent
 - save
 - save as
+- copy
+- cut
+- paste
 - binary/octet/decimal/hex

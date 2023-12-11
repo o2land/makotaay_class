@@ -11,7 +11,11 @@
 ## 本次課程 Keywords
 
 - Ultrasonic
+- 5V / 3.3V
 - Microsecond
+- int / long
 - Pulse
 - pulseIn
 - Serial
+- variable
+- baudrate

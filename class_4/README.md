@@ -12,3 +12,5 @@
 
 - Subroutine
 - Function
+- variable
+- global and local
