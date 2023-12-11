@@ -4,12 +4,16 @@
 
 ## 本次課程介紹
 
+- Input vs Output
+- If-then-else 邏輯
 - 超音波的原理與應用
 - 音速計算
 - Serial 通訊介面
 
 ## 本次課程 Keywords
 
+- Button
+- Bouncing
 - Ultrasonic
 - 5V / 3.3V
 - Microsecond
