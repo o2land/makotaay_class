@@ -4,6 +4,7 @@
 
 ## 本次課程介紹
 
+- 二進位系統介紹
 - Input vs Output
 - If-then-else 邏輯
 - 超音波的原理與應用
@@ -12,6 +13,7 @@
 
 ## 本次課程 Keywords
 
+- Binary System
 - Button
 - Bouncing
 - Ultrasonic
